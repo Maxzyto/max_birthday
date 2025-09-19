@@ -1,0 +1,5 @@
+{
+  "name": "Max's Birthday ",
+  "description": "A fun, interactive birthday card that generates a unique birthday wish using the Gemini API when you click the gift.",
+  "requestFramePermissions": []
+}
